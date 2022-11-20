@@ -1,1 +1,2 @@
 utility funtction for ver 1
+ver 2
